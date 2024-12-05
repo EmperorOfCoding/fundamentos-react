@@ -1,0 +1,7 @@
+Capitulo 3: Criando primeiro componente!
+
+- Aprendendo JSX
+- Usando Expressions
+- Aprendendo a usar Props
+- Listas e Chaves (Key) (.map())
+- Algoritmo de Reconciliacao
